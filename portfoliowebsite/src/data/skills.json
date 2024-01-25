@@ -1,0 +1,35 @@
+[
+    {
+      "title": "Swift",
+      "imageSrc": "skills/swift.png"
+    },
+    {
+        "title": "Java",
+        "imageSrc": "skills/javaa.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "JavaScript",
+      "imageSrc": "skills/jscript.png"
+    },
+    {
+      "title": "Node",
+      "imageSrc": "skills/node.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/pythonn.png"
+    }
+
+  ]

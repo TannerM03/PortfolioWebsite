@@ -1,0 +1,60 @@
+[
+    {
+      "title": "DyslexiQuiz",
+      "imageSrc": "projects/dyslexiQuiz.png",
+      "description": "iOS application created at HackNC2023 to revolutionize the way kids with dyslexia learn to read and write. Won Best UI/UX Hack out of 80 submissions",
+      "skills": ["Swift", "Canvas", "SwiftUI"],
+      "demo": "https://devpost.com/software/dyslexiquiz",
+      "source": "https://github.com/skanta04/HackNC2023"
+    },
+    {
+      "title": "Akari",
+      "imageSrc": "projects/akari.jpeg",
+      "description": "Working replication of popular Akari game developed using JavaFX",
+      "skills": ["Java", "JavaFx"],
+      "source": "https://github.com/COMP301F23/a09-akari-TannerM03"
+    },
+    {
+      "title": "SocialExperiment",
+      "imageSrc": "projects/socialNetwork.jpeg",
+      "description": "Interactive and user-friendly social media website with posting, direct messaging, and commenting features",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://bespoke-fairy-a8511e.netlify.app/",
+      "source": "https://github.com/TannerM03/Social_Experiment"
+    },
+    {
+      "title": "Chick-Fil-A UI",
+      "imageSrc": "projects/chickFilA.png",
+      "description": "Detailed replication of mobile Chick-Fil-A app with over 15 views",
+      "skills": ["Swift", "SwiftUI"],
+      "source": "https://github.com/appteamcarolina/f23-academy-final-project-TannerM03"
+    },
+    {
+      "title": "Playlist Maker",
+      "imageSrc": "projects/PlaylistMaker.png",
+      "description": "Java terminal game in which user has control over creating and editing a personal music playlist. Displays knowledge of OOP",
+      "skills": ["Java", "OOP"],
+      "source": "https://github.com/TannerM03/PlaylistMaker"
+    },
+    {
+      "title": "Spotify UI",
+      "imageSrc": "projects/spotify.png",
+      "description": "Identical replica of Spotify's play screen of Billy Joel's famous song, Vienna",
+      "skills": ["Swift", "SwiftUI"],
+      "source": "https://github.com/appteamcarolina/f23-academy-mp02-music-player-TannerM03"
+    }, 
+    {
+    "title": "Grocery List",
+      "imageSrc": "projects/groceryList.jpeg",
+      "description": "Grocery list with adding, deleting, and clearing implementation",
+      "skills": ["JavaScript", "HTML", "CSS"],
+      "demo": "https://grocerylist-tannermacpherson.netlify.app/"
+    },
+    {
+      "title": "iExpense",
+        "imageSrc": "projects/iExpense.png",
+        "description": "Tool for calculating the price per person of a meal, including tip. Utilizes MVVM architecture",
+        "skills": ["Swift", "SwiftUI"],
+        "source": "https://github.com/appteamcarolina/f23-academy-p06-iexpense-TannerM03"
+      }
+  ]

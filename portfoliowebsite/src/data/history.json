@@ -1,0 +1,20 @@
+[
+    {
+      "role": "iOS Developer",
+      "organization": "App Team Carolina",
+      "startDate": "Aug, 2023 ",
+      "endDate": " Present",
+      "experiences": ["Create projects weekly using Xcode, constantly learning new Swift features", "Learned best practices when coding with Swift"],
+      "imageSrc": "history/appTeamLogo.jpeg"
+    },
+    {
+      "role": "Full-Stack Developer",
+      "organization": "Computer Science + Social Good",
+      "startDate": "August, 2023 ",
+      "endDate": " December, 2023",
+      "experiences": [
+        "Implemented features for local company's website: Carolina Adapts Toys for Children","Gained valuable frontend and backend experience"
+      ],
+      "imageSrc": "history/cssgLogo.jpeg"
+    }
+  ]
