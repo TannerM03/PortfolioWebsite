@@ -1,4 +1,12 @@
 [
+  {
+    "role": "Mobile Engineer",
+    "organization": "Fidelity Investments",
+    "startDate": "May, 2024 ",
+    "endDate": " August, 2024",
+    "experiences": ["Wrote automated regression tests, worked with QA's and Mobile Engineers"],
+    "imageSrc": "history/fidelityLogo.png"
+  },
     {
       "role": "iOS Developer",
       "organization": "App Team Carolina",
