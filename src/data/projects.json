@@ -1,4 +1,19 @@
 [
+  {
+    "title": "FindMyMeal",
+    "imageSrc": "projects/dyslexiQuiz.png",
+    "description": "Created and deployed a full-stack iOS app using SwiftData, YelpAPI, and geolocation features. Uploaded to iOS App Store July 2024",
+    "skills": ["Swift", "SwiftUI"],
+    "source": "https://github.com/TannerM03/FindMyMeal"
+  },
+  {
+    "title": "CSXL Announcements Feature",
+    "imageSrc": "projects/dyslexiQuiz.png",
+    "description": "Created an Announcement feature on UNC's CS department website using Angular, TypeScript, and Python. Constructed backend services and database entities to handle complex relationships with data structures",
+    "skills": ["Angular", "TypeScript", "Python"],
+    "demo": "https://csxl-team-d4-comp590-24s.apps.unc.edu/announcements",
+    "source": "https://github.com/comp423-24s/csxl-final-team-d4"
+  },
     {
       "title": "DyslexiQuiz",
       "imageSrc": "projects/dyslexiQuiz.png",
@@ -13,6 +28,13 @@
       "description": "Working replication of popular Akari game developed using JavaFX",
       "skills": ["Java", "JavaFx"],
       "source": "https://github.com/COMP301F23/a09-akari-TannerM03"
+    },
+    {
+      "title": "Foody",
+      "imageSrc": "projects/dyslexiQuiz.png",
+      "description": "Collaborated with a team of 4 people to create an app that uses OpenAI to give the user recipe suggestions based on personalized pantry items",
+      "skills": ["Swift", "OpenAI", "SwiftUI"],
+      "source": "https://github.com/appteamcarolina/s24-apprenticeship-finalproject-recipegenerator"
     },
     {
       "title": "SocialExperiment",

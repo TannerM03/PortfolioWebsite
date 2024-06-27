@@ -30,6 +30,30 @@
     {
       "title": "Python",
       "imageSrc": "skills/pythonn.png"
+    },
+    {
+      "title": "TypeScript",
+      "imageSrc": "skills/typeScript.png"
+    },
+    {
+      "title": "Kotlin",
+      "imageSrc": "skills/kotlin.png"
+    },
+    {
+      "title": "Angular",
+      "imageSrc": "skills/angular.png"
+    },
+    {
+      "title": "SwiftData",
+      "imageSrc": "skills/swiftData.png"
+    },
+    {
+      "title": "Jetpack Compose",
+      "imageSrc": "skills/jetpackCompose.png"
+    },
+    {
+      "title": "git",
+      "imageSrc": "skills/git.png"
     }
 
   ]
