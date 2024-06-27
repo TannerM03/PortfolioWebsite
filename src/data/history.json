@@ -1,10 +1,12 @@
 [
   {
-    "role": "Mobile Engineer",
+    "role": "Mobile Engineer Intern",
     "organization": "Fidelity Investments",
     "startDate": "May, 2024 ",
     "endDate": " August, 2024",
-    "experiences": ["Wrote automated regression tests, worked with QA's and Mobile Engineers"],
+    "experiences": [
+      "Actively wrote UI tests, unit tests, and regression tests to ensure feature robustness and reliability", 
+      "gained hands-on experience in Android development with Jetpack Compose and Kotlin"],
     "imageSrc": "history/fidelityLogo.png"
   },
     {
@@ -12,7 +14,9 @@
       "organization": "App Team Carolina",
       "startDate": "Aug, 2023 ",
       "endDate": " Present",
-      "experiences": ["Create projects weekly using Xcode, constantly learning new Swift features", "Learned best practices when coding with Swift"],
+      "experiences": [
+        "Selected as one of 29 members from over 150 applicants to partake in a Swift learning team", 
+        "Gained valuables skills with Swift - View binding, MVVM architecture, API integration, data storage, geolocation services, etc."],
       "imageSrc": "history/appTeamLogo.jpeg"
     },
     {
@@ -21,7 +25,8 @@
       "startDate": "August, 2023 ",
       "endDate": " December, 2023",
       "experiences": [
-        "Implemented features for local company's website: Carolina Adapts Toys for Children","Gained valuable frontend and backend experience"
+        "Worked with a team to develop a user-friendly website for a local organization providing toys for underprivileged children",
+        "Utilized Firebase for the backend and HTML/CSS for the frontend"
       ],
       "imageSrc": "history/cssgLogo.jpeg"
     }
