@@ -1,23 +1,26 @@
 [
   {
     "title": "FindMyMeal",
-    "imageSrc": "projects/dyslexiQuiz.png",
-    "description": "Created and deployed a full-stack iOS app using SwiftData, YelpAPI, and geolocation features. Uploaded to iOS App Store July 2024",
+    "imageSrc": "projects/findMyMeal.png",
+    "description": ["Created a full-stack iOS app using SwiftData, YelpAPI, and geolocation features",
+                    "Deployed to the App Store June 2024"],
     "skills": ["Swift", "SwiftUI"],
     "source": "https://github.com/TannerM03/FindMyMeal"
   },
   {
-    "title": "CSXL Announcements Feature",
-    "imageSrc": "projects/dyslexiQuiz.png",
-    "description": "Created an Announcement feature on UNC's CS department website using Angular, TypeScript, and Python. Constructed backend services and database entities to handle complex relationships with data structures",
-    "skills": ["Angular", "TypeScript", "Python"],
+    "title": "Announcements Feature",
+    "imageSrc": "projects/announcements.png",
+    "description": ["Created an Announcement feature on UNC's CS department website using Angular, TypeScript, and Python", 
+                    "Constructed backend services and database entities to handle complex relationships with data structures"],
+    "skills": ["Angular", "TypeScript", "Python", "FastAPI"],
     "demo": "https://csxl-team-d4-comp590-24s.apps.unc.edu/announcements",
     "source": "https://github.com/comp423-24s/csxl-final-team-d4"
   },
     {
       "title": "DyslexiQuiz",
       "imageSrc": "projects/dyslexiQuiz.png",
-      "description": "iOS application created at HackNC2023 to revolutionize the way kids with dyslexia learn to read and write. Won Best UI/UX Hack out of 80 submissions",
+      "description": ["iOS application created at HackNC2023 to revolutionize the way kids with dyslexia learn to read and write", 
+                      "Won Best UI/UX Hack out of 80 submissions"],
       "skills": ["Swift", "Canvas", "SwiftUI"],
       "demo": "https://devpost.com/software/dyslexiquiz",
       "source": "https://github.com/skanta04/HackNC2023"
@@ -25,21 +28,21 @@
     {
       "title": "Akari",
       "imageSrc": "projects/akari.jpeg",
-      "description": "Working replication of popular Akari game developed using JavaFX",
+      "description": ["Working replication of popular Akari game developed using JavaFX"],
       "skills": ["Java", "JavaFx"],
       "source": "https://github.com/COMP301F23/a09-akari-TannerM03"
     },
     {
       "title": "Foody",
-      "imageSrc": "projects/dyslexiQuiz.png",
-      "description": "Collaborated with a team of 4 people to create an app that uses OpenAI to give the user recipe suggestions based on personalized pantry items",
+      "imageSrc": "projects/foody.png",
+      "description": ["Collaborated with a team of 4 people to create an app that uses OpenAI to give the user recipe suggestions based on personalized pantry items"],
       "skills": ["Swift", "OpenAI", "SwiftUI"],
       "source": "https://github.com/appteamcarolina/s24-apprenticeship-finalproject-recipegenerator"
     },
     {
       "title": "SocialExperiment",
       "imageSrc": "projects/socialNetwork.jpeg",
-      "description": "Interactive and user-friendly social media website with posting, direct messaging, and commenting features",
+      "description": ["Interactive and user-friendly social media website with posting, direct messaging, and commenting features"],
       "skills": ["HTML", "CSS", "JavaScript"],
       "demo": "https://bespoke-fairy-a8511e.netlify.app/",
       "source": "https://github.com/TannerM03/Social_Experiment"
@@ -47,35 +50,36 @@
     {
       "title": "Chick-Fil-A UI",
       "imageSrc": "projects/chickFilA.png",
-      "description": "Detailed replication of mobile Chick-Fil-A app with over 15 views",
+      "description": ["Detailed replication of mobile Chick-Fil-A app with over 15 views"],
       "skills": ["Swift", "SwiftUI"],
       "source": "https://github.com/appteamcarolina/f23-academy-final-project-TannerM03"
     },
     {
       "title": "Playlist Maker",
       "imageSrc": "projects/PlaylistMaker.png",
-      "description": "Java terminal game in which user has control over creating and editing a personal music playlist. Displays knowledge of OOP",
+      "description": ["Java terminal game in which user has control over creating and editing a personal music playlist", 
+                      "Displays knowledge of OOP"],
       "skills": ["Java", "OOP"],
       "source": "https://github.com/TannerM03/PlaylistMaker"
     },
     {
       "title": "Spotify UI",
       "imageSrc": "projects/spotify.png",
-      "description": "Identical replica of Spotify's play screen of Billy Joel's famous song, Vienna",
+      "description": ["Identical replica of Spotify's play screen of Billy Joel's famous song, Vienna"],
       "skills": ["Swift", "SwiftUI"],
       "source": "https://github.com/appteamcarolina/f23-academy-mp02-music-player-TannerM03"
     }, 
     {
     "title": "Grocery List",
       "imageSrc": "projects/groceryList.jpeg",
-      "description": "Grocery list with adding, deleting, and clearing implementation",
+      "description": ["Grocery list with adding, deleting, and clearing implementation"],
       "skills": ["JavaScript", "HTML", "CSS"],
       "demo": "https://grocerylist-tannermacpherson.netlify.app/"
     },
     {
       "title": "iExpense",
         "imageSrc": "projects/iExpense.png",
-        "description": "Tool for calculating the price per person of a meal, including tip. Utilizes MVVM architecture",
+        "description": ["Tool for calculating the price per person of a meal, including tip. Utilizes MVVM architecture"],
         "skills": ["Swift", "SwiftUI"],
         "source": "https://github.com/appteamcarolina/f23-academy-p06-iexpense-TannerM03"
       }
