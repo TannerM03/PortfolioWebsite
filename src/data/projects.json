@@ -14,8 +14,7 @@
     "description": ["Created an Announcement feature on UNC's CS department website using Angular, TS, and Python", 
                     "Constructed backend services and database entities to handle complex relationships with data structures"],
     "skills": ["Angular", "TS", "Python", "FastAPI"],
-    "demo": "https://www.youtube.com/watch?v=1TSD6CjXgcg",
-    "source": "https://github.com/comp423-24s/csxl-final-team-d4"
+    "demo": "https://www.youtube.com/watch?v=1TSD6CjXgcg"
   },
     {
       "title": "DyslexiQuiz",
