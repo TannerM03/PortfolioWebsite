@@ -5,15 +5,16 @@
     "description": ["Created a full-stack iOS app using SwiftData, YelpAPI, and geolocation features",
                     "Deployed to the App Store June 2024"],
     "skills": ["Swift", "SwiftUI"],
+    "demo": "https://apps.apple.com/us/app/findmymeal/id6504685967",
     "source": "https://github.com/TannerM03/FindMyMeal"
   },
   {
     "title": "Announcements Feature",
     "imageSrc": "projects/announcements.png",
-    "description": ["Created an Announcement feature on UNC's CS department website using Angular, TypeScript, and Python", 
+    "description": ["Created an Announcement feature on UNC's CS department website using Angular, TS, and Python", 
                     "Constructed backend services and database entities to handle complex relationships with data structures"],
-    "skills": ["Angular", "TypeScript", "Python", "FastAPI"],
-    "demo": "https://csxl-team-d4-comp590-24s.apps.unc.edu/announcements",
+    "skills": ["Angular", "TS", "Python", "FastAPI"],
+    "demo": "https://www.youtube.com/watch?v=1TSD6CjXgcg",
     "source": "https://github.com/comp423-24s/csxl-final-team-d4"
   },
     {
@@ -23,7 +24,7 @@
                       "Won Best UI/UX Hack out of 80 submissions"],
       "skills": ["Swift", "Canvas", "SwiftUI"],
       "demo": "https://devpost.com/software/dyslexiquiz",
-      "source": "https://github.com/skanta04/HackNC2023"
+      "source": "https://github.com/TannerM03/DyslexiQuiz"
     },
     {
       "title": "Akari",
