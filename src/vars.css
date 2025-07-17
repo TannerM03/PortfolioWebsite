@@ -1,10 +1,36 @@
 :root {
-    --color-text: #fff;
+    --color-text: #ffffff;
+    --color-text-secondary: #e8e8e8;
+    --color-text-muted: #c3c0c0;
     --color-primary: #576cbc;
+    --color-primary-hover: #6b7fd1;
     --color-secondary: #19376d;
+    --color-accent: #64b5f6;
+    --color-accent-light: #90caf9;
     --color-dark: #0b2447;
+    --color-darker: #051a2e;
     --color-bg: #04152d;
+    --color-card-bg: linear-gradient(180deg, #576cbc 0%, #132a53 100%);
+    --color-card-shadow: #041523;
 
     --font-roboto: "Roboto";
+    --font-size-xs: 14px;
+    --font-size-sm: 16px;
+    --font-size-base: 18px;
+    --font-size-lg: 20px;
+    --font-size-xl: 24px;
+    --font-size-2xl: 28px;
+    --font-size-3xl: 32px;
+    --font-size-4xl: 40px;
+    --font-size-5xl: 48px;
+    --font-size-6xl: 64px;
+
+    --spacing-xs: 8px;
+    --spacing-sm: 16px;
+    --spacing-md: 24px;
+    --spacing-lg: 32px;
+    --spacing-xl: 48px;
+    --spacing-2xl: 64px;
+    --spacing-3xl: 96px;
 
 }

@@ -23,7 +23,7 @@ export const About = () => {
                         <div className = {styles.aboutItemText}>
                             <h3>Where it's come</h3>
                             <p>In the last few years, I've turned my dream into a reality not only by becoming skilled in 
-                                iOS devlopment, but by also discovering a sincere interest in full-stack software engineering</p>
+                                iOS/fullstack devlopment, but by also discovering a sincere interest in Machine Learning</p>
                         </div>
                     </li>
                     <li className = {styles.aboutItem}>

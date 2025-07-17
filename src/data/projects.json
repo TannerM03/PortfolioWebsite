@@ -1,5 +1,13 @@
 [
   {
+    "title": "StudentTraveler",
+    "imageSrc": "projects/travelabroad.png",
+    "description": ["Full-stack mobile app using SwiftUI and Supabase for students to discover, rate, and save travel destinations with real-time syncing and secure authentication",
+                    "Implemented scalable backend with row-level security, image storage, and complex database schemas for users, cities, reviews, and itineraries"],
+    "skills": ["SwiftUI", "Supabase", "Swift"],
+    "source": "https://github.com/TannerM03/TravelAbroad"
+  },
+  {
     "title": "FindMyMeal",
     "imageSrc": "projects/findMyMeal.png",
     "description": ["Created a full-stack iOS app using SwiftData, YelpAPI, and geolocation features",

@@ -2,15 +2,15 @@
 
 .padding {
     position: relative;
-    padding-top: 25px;
+    padding-top: var(--spacing-2xl);
 }
 
 .container {
     position: relative;
     background: rgba(12, 12, 12, 0.6);
     border-radius: 15px;
-    padding: 73px;
-    margin-top: 129px;
+    padding: var(--spacing-2xl);
+    margin-top: var(--spacing-3xl);
     z-index: 1;
     margin-left: 10%;
     margin-right: 10%;
@@ -18,10 +18,11 @@
 
 .title {
     color: var(--color-text);
-    font-size: 35px;
+    font-size: var(--font-size-4xl);
     font-weight: 700;
     letter-spacing: 1.75px;
     text-transform: uppercase;
+    margin-bottom: var(--spacing-lg);
 }
 
 .content {
@@ -61,13 +62,15 @@
 }
 
 .aboutItem h3 {
-    font-size: 25px;
+    font-size: var(--font-size-xl);
     font-weight: 600;
+    margin-bottom: var(--spacing-xs);
 }
 
 .aboutItem p {
-    font-size: 20px;
-    color: rgba(195, 192, 192);
+    font-size: var(--font-size-lg);
+    color: var(--color-text-muted);
+    line-height: 1.5;
 }
 
 @media screen and (max-width: 830px) {

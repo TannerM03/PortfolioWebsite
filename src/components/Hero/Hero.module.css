@@ -1,12 +1,12 @@
 @import '../../vars.css';
 
 .container {
-    padding-top: 150px;
+    padding-top: var(--spacing-3xl);
     position: relative;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin-top: 49px;
+    margin-top: var(--spacing-xl);
     z-index: 1;
     margin-left: 10%;
     margin-right: 10%;
@@ -22,20 +22,22 @@
 }
 
 .title {
-    font-size: 72px;
+    font-size: var(--font-size-6xl);
     font-weight: 900;
-    margin-bottom: 33px;
+    margin-bottom: var(--spacing-lg);
     font-family: var(--font-roboto);
-    background: linear-gradient(90deg, rgba(255, 255, 255, 1)70%, rgba(255, 255, 255, 0)120%);
-    /* -webkit-text-fill-color: transparent;
-    -webkit-background-clip: text; */
+    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(100, 181, 246, 1) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
 }
 
 .description {
-    font-size: 30px;
+    font-size: var(--font-size-2xl);
     font-family: var(--font-roboto);
-    margin-bottom: 52px;
-    color: var(--color-text);
+    margin-bottom: var(--spacing-2xl);
+    color: var(--color-text-secondary);
+    line-height: 1.4;
 }
 
 .contactBtn {
@@ -43,10 +45,17 @@
     background-color: var(--color-primary);
     color: var(--color-text);
     border-radius: 100px;
-    font-size: 30px;
+    font-size: var(--font-size-xl);
     font-weight: 600;
-    padding: 17px 26px;
+    padding: var(--spacing-sm) var(--spacing-md);
     box-shadow: 0 0 4px 0 rgba(0,0,0,0.25);
+    transition: all 0.3s ease;
+}
+
+.contactBtn:hover {
+    background-color: var(--color-primary-hover);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px 0 rgba(0,0,0,0.35);
 }
 
 .heroImg {
