@@ -1,5 +1,15 @@
 [
   {
+    "role": "iOS Engineer Intern",
+    "organization": "Paypal - Venmo",
+    "startDate": "May, 2025 ",
+    "endDate": " August, 2025",
+    "experiences": [
+      "Contributed to Venmo's ML-informed Search flow by implementing end-to-end data integration between backend APIs and frontend systems, enabling new feature logic and expanding unit test coverage", 
+      "Improved CI/CD reliability by enhancing UI and automation tests, increasing pass rates from ~75% to over 90% "],
+    "imageSrc": "history/paypal.webp"
+  },
+  {
     "role": "Mobile Engineer Intern",
     "organization": "Fidelity Investments",
     "startDate": "May, 2024 ",
@@ -9,16 +19,17 @@
       "Received hands-on experience in Android development with Jetpack Compose and Kotlin"],
     "imageSrc": "history/fidelityLogo.png"
   },
-    {
-      "role": "iOS Developer",
-      "organization": "App Team Carolina",
-      "startDate": "Aug, 2023 ",
-      "endDate": " Present",
-      "experiences": [
-        "Selected as one of 29 members from over 150 applicants to partake in a Swift learning team", 
-        "Gained valuables skills using Swift - View binding, MVVM architecture, API integration, data storage, geolocation services, etc."],
-      "imageSrc": "history/appTeamLogo.jpeg"
-    },
+      {
+    "role": "Production Team Lead - Luminary",
+    "organization": "App Team Carolina",
+    "startDate": "Aug, 2023 ",
+    "endDate": " Present",
+    "experiences": [
+      "Lead a cross-functional team of 15 developers, backend engineers, designers, and product managers", 
+      "Oversee technical direction, define team priorities, create tickets, manage sprint planning and app deployment",
+      "Progressed from iOS Academy Trainee → Apprentice → iOS Developer → Production Team Lead (July 2025) in 2 years"],
+    "imageSrc": "history/appTeamLogo.jpeg"
+  },
     {
       "role": "Full-Stack Developer",
       "organization": "Computer Science + Social Good",

@@ -4,6 +4,10 @@
       "imageSrc": "skills/swift.png"
     },
     {
+      "title": "Python",
+      "imageSrc": "skills/pythonn.png"
+    },
+    {
         "title": "Java",
         "imageSrc": "skills/javaa.png"
     },
@@ -28,32 +32,44 @@
       "imageSrc": "skills/node.png"
     },
     {
-      "title": "Python",
-      "imageSrc": "skills/pythonn.png"
-    },
-    {
       "title": "TypeScript",
       "imageSrc": "skills/typeScript.png"
-    },
-    {
-      "title": "Kotlin",
-      "imageSrc": "skills/kotlin.png"
     },
     {
       "title": "Angular",
       "imageSrc": "skills/angular.png"
     },
     {
-      "title": "SwiftData",
-      "imageSrc": "skills/swiftData.png"
-    },
-    {
-      "title": "Compose",
-      "imageSrc": "skills/jetpackCompose.png"
-    },
-    {
       "title": "git",
       "imageSrc": "skills/git.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "SwiftUI",
+      "imageSrc": "skills/swiftui.png"
+    },
+    {
+      "title": "UIKit",
+      "imageSrc": "skills/uikit.png"
+    },
+    {
+      "title": "Supabase",
+      "imageSrc": "skills/supabase.jpeg"
+    },
+    {
+      "title": "Next.js",
+      "imageSrc": "skills/next.png"
+    },
+    {
+      "title": "Jupyter",
+      "imageSrc": "skills/jupyter.png"
+    },
+    {
+      "title": "PyTorch",
+      "imageSrc": "skills/pytorch.png"
     }
 
   ]

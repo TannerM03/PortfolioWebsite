@@ -2,30 +2,31 @@
 
 .padding {
     position: relative;
-    padding-top: 60px;
+    padding-top: var(--spacing-2xl);
 }
 
 .container {
-    margin-top: 76px;
+    margin-top: var(--spacing-2xl);
     color: var(--color-text);
     margin-left: 10%;
     margin-right: 10%;
 }
 
 .title {
-    font-size: 35px;
+    font-size: var(--font-size-4xl);
     font-weight: 700;
     letter-spacing: 1.75px;
     text-transform: uppercase;
+    margin-bottom: var(--spacing-lg);
 }
 
 .projects {
-    margin-top: 37px;
+    margin-top: var(--spacing-lg);
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    align-items: center;
+    align-items: stretch;
     justify-content: center;
-    gap: 15px;
+    gap: var(--spacing-md);
     width: 100%;
 }
